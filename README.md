@@ -105,4 +105,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [Tailwind CSS Documentation](https://tailwindcss.com/)
 ```
 
-Copy and paste this code block into your `README.md` file. It’s properly formatted for Markdown rendering on GitHub. 🚀
